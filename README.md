@@ -24,4 +24,7 @@ This represents **version one of the idea**, with room for future expansion and 
 
 ## Notes
 
-This repository exists to demonstrate my Unity and C# development skills as part of my capstone coursework.
+This project represents an early exploration of the GuildForge concept to demonstrate my Unity and C# development skills as part of my capstone coursework.
+The current simulation-driven version is a separate project with a different
+architecture and design goals:
+[GuildForge](https://github.com/MalcolmStewart22/GuildForge)
